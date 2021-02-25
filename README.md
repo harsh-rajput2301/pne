@@ -1,3 +1,3 @@
 # pne
 * abc
-** cb
+abc
